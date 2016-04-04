@@ -1,0 +1,2 @@
+<<h2>This is file will help to input the text and getting that in that page.<br>
+But the fun is that you will automatically get another file with desired name and the output mainly come from there. </h2>
